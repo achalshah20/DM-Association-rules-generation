@@ -1,0 +1,7 @@
+"","rules","support","confidence"
+"1","class=not_recom => health=not_recom","0.333333333333333","1"
+"2","health=not_recom => class=not_recom","0.333333333333333","1"
+"3","class=not_recom,finance=convenient => health=not_recom","0.166666666666667","1"
+"4","finance=convenient,health=not_recom => class=not_recom","0.166666666666667","1"
+"5","class=not_recom,finance=inconv => health=not_recom","0.166666666666667","1"
+"6","finance=inconv,health=not_recom => class=not_recom","0.166666666666667","1"

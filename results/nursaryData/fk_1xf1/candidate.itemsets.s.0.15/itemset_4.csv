@@ -1,0 +1,10 @@
+"","item1","item2","item3","item4","support"
+"1","class=not_recom","finance=convenient","health=not_recom","housing=convenient",0.0555555555555556
+"2","class=not_recom","finance=convenient","health=not_recom","housing=critical",0.0555555555555556
+"3","class=not_recom","finance=convenient","health=not_recom","housing=less_conv",0.0555555555555556
+"4","class=not_recom","finance=convenient","health=not_recom","parents=great_pret",0.0555555555555556
+"5","class=not_recom","finance=convenient","health=not_recom","parents=pretentious",0.0555555555555556
+"6","class=not_recom","finance=convenient","health=not_recom","parents=usual",0.0555555555555556
+"7","class=not_recom","finance=convenient","health=not_recom","social=nonprob",0.0555555555555556
+"8","class=not_recom","finance=convenient","health=not_recom","social=problematic",0.0555555555555556
+"9","class=not_recom","finance=convenient","health=not_recom","social=slightly_prob",0.0555555555555556

@@ -1,0 +1,12 @@
+"","item1","item2","item3","support"
+"1","class=unacc","lug_boot=big","persons=2",0.111111111111111
+"2","class=unacc","lug_boot=big","safety=low",0.111111111111111
+"3","class=unacc","lug_boot=med","persons=2",0.111111111111111
+"4","class=unacc","lug_boot=med","safety=low",0.111111111111111
+"5","class=unacc","lug_boot=small","persons=2",0.111111111111111
+"6","class=unacc","lug_boot=small","safety=low",0.111111111111111
+"7","class=unacc","persons=2","safety=high",0.111111111111111
+"8","class=unacc","persons=2","safety=low",0.111111111111111
+"9","class=unacc","persons=2","safety=med",0.111111111111111
+"10","class=unacc","persons=4","safety=low",0.111111111111111
+"11","class=unacc","persons=more","safety=low",0.111111111111111
